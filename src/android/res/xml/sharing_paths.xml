@@ -2,7 +2,7 @@
 <paths>
     <external-path
         name="Android/data/${applicationId}/files/socialsharing_downloads"
-        path="./files/socialsharing-downloads"/>
+        path="./socialsharing-downloads"/>
 
     <root-path
         name="root"
